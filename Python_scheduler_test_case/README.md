@@ -1,0 +1,2 @@
+#you have a python program that implements a basic scheduler that runs some tasks at a specific time, e.g run a program x everyday at 13.00 hours, the implementation of this schedule fetches the system clock to get the current time to determine if a task needs to happen. If you write a test for it e.g at time T, schedule a task at T+x, the task will actually run at T+x. how would you yest this use case?
+
